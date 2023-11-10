@@ -1,0 +1,2 @@
+# Todo-App
+"Introducing a sleek and intuitive React Todo app designed to streamline your task management. This app offers a clean and user-friendly interface, allowing you to effortlessly organize your daily tasks, set priorities, and mark items as complete. With real-time updates and responsive design, stay in control of your schedule whether you're on your desktop or mobile device. Embrace productivity with our React Todo app – your go-to solution for efficient task management."
