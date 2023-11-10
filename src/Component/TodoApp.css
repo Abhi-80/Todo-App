@@ -1,0 +1,60 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(../set-of-to-do-list-template.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  padding: 0;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 507px;
+  height: 580px;
+  overflow-y: auto;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+
+
+.input {
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+  border: 1px solid #ccc;
+  color: #626262;
+  border-radius: 4px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.data {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+.button {
+  margin-left: 5px;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  color: #626262;
+  border-radius: 4px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
